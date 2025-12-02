@@ -7,6 +7,8 @@ The GrafanaToolServer works by wrapping Grafana's API endpoints into tool functi
 
 We will use the Grafana Tool Server in the integration of Ollama and LLMs.
 
+----------
+
 ## 🔧 Architecture
 
 ```
@@ -36,6 +38,7 @@ We will use the Grafana Tool Server in the integration of Ollama and LLMs.
 
 In today’s cloud-based world, observability is no longer just about collecting logs, metrics, and traces. We can take observability to the next level with AI-powered APM (Application Performance Monitoring). Tools like Claude (cloud-based AI) and Ollama (self-hosted AI), combined with Prometheus, Grafana, Loki, Tempo, and OpenTelemetry, enable us to create an intelligent observability ecosystem. In this hands-on guide, I’ll show you step-by-step how to integrate AI with observability platforms. We’ll run with various LLM models and compare their results. The integration of AI and observability systems will enable real-time anomaly detection and faster root cause analysis for your systems. I will share with you a comprehensive overview of my experiences with integrating AI and observability systems.
 
+
 ## 📗 Medium Articles Link:
 
 - [📝Observability 3.0 AI-Powered APM = Claude (cloud-based) / Ollama (self-hosted) + MCP Server + n8n + Prometheus, Grafana, Loki, Tempo, OpenTelemetry, PostgreSQL Exporter, Node Exporter, cAdvisor, Promtail, Alert Manager — A Comprehensive Hands-On Guide for Live Monitoring with LLMs (Large Language Models)](https://cmakkaya.medium.com/observability-3-0-ai-powered-apm-claude-cloud-based-ollama-self-hosted-mcp-server-n8n-monitor-6ea436e271fe?postPublishedType=repub) `happy reading.`
@@ -46,7 +49,7 @@ In today’s cloud-based world, observability is no longer just about collecting
 
 - [📝Observability 3.0: AI-Powered APM = Claude (cloud-based) + MCP Server + Observability Stack — A Comprehensive Hands-On Guide for Live Monitoring with LLMs (Part-4)]() `soon.`
 
-
+----------
 
 ## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 
@@ -57,6 +60,8 @@ In today’s cloud-based world, observability is no longer just about collecting
 I hope they are useful to you.
 
 🙏 I wish you growing success.
+
+----------
 
 ## 🤝 Contributing
 
@@ -69,6 +74,7 @@ We welcome your contributions! Feel free to send pull requests.
 5. Open a Pull Request
 
 ----------
+
 ### Connect with me 📫 You can learn more about me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
@@ -76,6 +82,7 @@ We welcome your contributions! Feel free to send pull requests.
 - 🌐 [GitHub](https://github.com/cmakkaya/)
 
 ----------
+
 ## 📝 License
 
 MIT License - See [LICENSE](LICENSE) file for details.
